@@ -7,7 +7,7 @@ Prerequisites for running program 1:
 Use the below command to execute it.
 
   - javac HelloWorld.java
-  - java HelloWorld
+  - java -Xmx128M -Xms16M HelloWorld 8(where 8 is n) 
 
 # Program 2
 Prerequisites for running program 1:

@@ -2,7 +2,7 @@ public class HelloWorld{
 
      public static void main(String []args){
         System.out.println("Hello World");
-        series(5);
+        series(Integer.valueOf(args[0]));
      }
      
      public static void series(int n){
