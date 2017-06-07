@@ -13,6 +13,7 @@ Use the below command to execute it.
 Prerequisites for running program 1:
 > Should have nodeJS  installed
 > Environment path should be set.
+> Should have wait-until  installed(npm install wait-until)
 
 Use the below command to execute it.
 
